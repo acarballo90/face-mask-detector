@@ -1,1 +1,2 @@
-# face-mask-detector
+# Face Mask Detector
+![](detector.gif)
